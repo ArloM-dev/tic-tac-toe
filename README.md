@@ -1,6 +1,6 @@
 # Tic tac toe
 
-A basic customizable tic tac toe game with many uses. You can use it to just play a friend or bot, let two bots battle it out or even
+A text based customizable tic tac toe game with many uses. You can use it to just play a friend or bot, let two bots battle it out or even
 test your programming skills by developing you own.
 
 ### Quick note
