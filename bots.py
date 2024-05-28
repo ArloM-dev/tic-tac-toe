@@ -2,9 +2,11 @@ import random
 
 #name the functions you want to use here
 def player_1(data):
-    return #yourbotfunction(data,1)
+    #replace user_bot with your function
+    return user_bot(data,1)
 def player_2(data):
-    return #otherbotfunction(data,2)
+    #replace user_bot with your function
+    return user_bot(data,2)
 
 #bot aiding functions:
 
