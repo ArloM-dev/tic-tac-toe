@@ -11,10 +11,10 @@ Its quite basic, but technically it is my only completed repo as most of my othe
 ## Description
 
 This projects is designed to be edited and experimented with.
-The way this works is that on each go, the main python file calls the player function
-in the bots file to determine its next move. By default the two players are set to user input,
-meaning it would be two people playing against each other, but if you would rather play a bot
-or make two bots play against each other just build your function in the bots.py file,
+The way this works is that when you play, the game uses the bots file to determine the next move.
+This means you can either play other people, or build a program/bot to play against you.
+By default the two players are set to user input, meaning it would be two people playing against each other
+but if you would rather play a bot or make two bots play against each other just build your function in the bots.py file,
 and then up at the top where it says "insert your bots here" and change the text from user_bot to your own function.
 
 ## Using the program
