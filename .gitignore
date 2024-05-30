@@ -1,0 +1,2 @@
+# ignores the cache folder
+__pycache__/
