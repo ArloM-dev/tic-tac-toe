@@ -49,6 +49,7 @@ If you do not currently have Python installed, it can be installed [here](https:
 * If you want to measure two bots against each other, set them as player 1 and 2.
 * Follow the instructions on the main.py menu and choose your settings.
 
+![example of game](https://github.com/ArloM-dev/tic-tac-toe/blob/main/README-assets/example-game.PNG)
 
 ## Documentation for bots
 
