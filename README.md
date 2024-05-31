@@ -6,9 +6,9 @@ test your programming skills by developing you own.
 <details>
   <summary> Go to ...</summary>
   <ul>
-    <li><a href="https://github.com/ArloM-dev/tic-tac-toe/blob/main/README.md#using-the-program">Using the program</a></li>
-    <li><a href="https://github.com/ArloM-dev/tic-tac-toe/blob/main/README.md#documentation-for-bots">Documentation for bots</a></li>
-    <li><a href="https://github.com/ArloM-dev/tic-tac-toe/blob/main/README.md#help">Help</a></li>
+    <li><a href="#using-the-program">Using the program</a></li>
+    <li><a href="#documentation-for-bots">Documentation for bots</a></li>
+    <li><a href="#help">Help</a></li>
   </ul>
 </details>
 
