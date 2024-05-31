@@ -3,12 +3,21 @@
 A text based customizable tic tac toe game with many uses. You can use it to just play a friend or bot, let two bots battle it out or even
 test your programming skills by developing you own.
 
+<details>
+  <summary> Go to ...</summary>
+  <ul>
+    <li><a href="https://github.com/ArloM-dev/tic-tac-toe/README.md#using-the-program">Using the program</a></li>
+    <li><a href="https://github.com/ArloM-dev/tic-tac-toe/README.md#documentation-for-bots">Documentation for bots</a></li>
+    <li><a href="https://github.com/ArloM-dev/tic-tac-toe/README.md#help">Help</a></li>
+  </ul>
+</details>
+
 ### Quick note
 This is just an old project I found from when I had starting out programming,
 and thought it would be nice to publish to github for people too mess around with.
 Its quite basic, but technically it is my only completed repo as most of my other projects got deleted.
 
-## Description
+### Description
 
 This projects is designed to be edited and experimented with.
 The way this works is that when you play, the game uses the bots file to determine the next move.
@@ -61,6 +70,7 @@ Building a bot isn't that complicated, but there are a few things you should kee
 * If your function uses less or more, make sure to edit the function at the tops parameters
 
 ## Help
+
 There are a few problems you may run into while developing your bot. These include:
 
 ### Cell already ocupied
