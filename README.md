@@ -6,7 +6,7 @@ let two bots battle it out, or even test your programming skills by developing y
 <details>
   <summary> Go to ...</summary>
   <ul>
-    <li><a href="#using-the-programme">Using the programme</a></li>
+    <li><a href="#using-the-program">Using the program</a></li>
     <li><a href="#documentation-for-bots">Documentation for bots</a></li>
     <li><a href="#help">Help</a></li>
   </ul>
@@ -27,7 +27,7 @@ By default, the two players are set to user input, meaning it would be two peopl
 But if you would rather play against a bot or make two bots play against each other, just build your function in the bots.py file.
 Then, up at the top where it says "insert your bots here," change the text from "user_bot" to your own function.
 
-## Using the programme
+## Using the program
 
 ### Installing
 
